@@ -1,0 +1,51 @@
+# 💼 Employee Promotion Analytics – Power BI Project
+
+🚀 A complete **Power BI Dashboard** built from scratch to analyze **Employee Promotions**.  
+This project uncovers the key factors influencing employee promotions using data-driven insights.  
+
+---
+
+## 🔍 Key Insights
+- 📊 Promotion Rate by **Department, Gender, and Region**  
+- 🎓 Training Effectiveness vs Promotion  
+- 🏆 Impact of **Awards & Ratings** on Promotion Likelihood  
+- 🎛️ Interactive filtering & slicers for employee trends  
+
+---
+
+## 🛠️ Skills Applied
+- Power Query Transformations  
+- DAX Measures (Promotion Rate, Avg Score, etc.)  
+- Data Modeling & Relationships  
+- Dashboard Design & Storytelling with Power BI  
+
+---
+
+## 📸 Dashboard Preview
+![Overview](./screenshots/overview.png)  
+![Promotion Rate](./screenshots/promotion_rate.png)  
+![Training Effectiveness](./screenshots/training_vs_promotion.png)  
+![Awards Impact](./screenshots/awards_impact.png)  
+
+---
+
+## 🎯 Business Question Answered
+**What factors influence employee promotions?**  
+This dashboard helps HR teams and management identify which variables (training, awards, ratings, etc.) significantly impact promotions.  
+
+---
+
+## 📂 Files
+- `Employee_Promotion.pbix` → Full Power BI file (optional upload)  
+- `screenshots/` → Dashboard preview images  
+
+---
+
+## 🔗 Connect
+If you’d like a personalized version or the PBIX file, feel free to connect with me:  
+👉 [LinkedIn – Muhammad Affaf](https://www.linkedin.com/in/muhammadaffaf/)  
+
+---
+
+### Tags
+`#PowerBI` `#EmployeeAnalytics` `#HRAnalytics` `#DashboardDesign` `#DataAnalysis`
