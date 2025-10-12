@@ -22,10 +22,9 @@ This project uncovers the key factors influencing employee promotions using data
 ---
 
 ## 📸 Dashboard Preview
-![Overview](./screenshots/overview.png)  
-![Promotion Rate](./screenshots/promotion_rate.png)  
-![Training Effectiveness](./screenshots/training_vs_promotion.png)  
-![Awards Impact](./screenshots/awards_impact.png)  
+![Overview](1.jpg) 
+![Overview](2.jpg) 
+
 
 ---
 
