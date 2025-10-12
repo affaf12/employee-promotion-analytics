@@ -4,6 +4,10 @@
 This project uncovers the key factors influencing employee promotions using data-driven insights.  
 
 ---
+## 📅 Project Duration
+**Jul 2025– Jul 2025**
+
+---
 
 ## 🔍 Key Insights
 - 📊 Promotion Rate by **Department, Gender, and Region**  
