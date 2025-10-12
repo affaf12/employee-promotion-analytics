@@ -22,8 +22,8 @@ This project uncovers the key factors influencing employee promotions using data
 ---
 
 ## 📸 Dashboard Preview
-![Overview](1.jpg) 
 ![Overview](2.jpg) 
+![Overview](1.jpg) 
 
 
 ---
